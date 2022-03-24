@@ -8,3 +8,5 @@ In this repository, I will be taking a deep dive into the syntaxt of ggplot2. Wh
 
 Throughout upcomingo versions of this repository, I will build on gpplot2 graphs iteratively to progressively create more complex and complete data visualizations.
 
+You can also see the Kaggle notebook [here](https://www.kaggle.com/code/priscilalpezbeltrn/ggplot-deep-dive-in-progress)
+
